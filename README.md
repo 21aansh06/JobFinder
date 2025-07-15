@@ -20,10 +20,10 @@ JobFinder is a modern, responsive job board web app built using **React.js**, **
 ## 📸 Preview
 
 ### Homepage
-<img src="https://github.com/21aansh06/ResQForce/blob/main/static/img/Screenshot%202025-04-11%20074115.png?raw=true" alt="index" width="600"/>
+<img src="https://github.com/21aansh06/JobFinder/blob/main/screenshots/Screenshot%202025-07-15%20135447.png?raw=true" alt="homepage" width="600"/>
 
 ### Filtered Results
-<img src="https://github.com/21aansh06/ResQForce/blob/main/static/img/Screenshot%202025-04-11%20074115.png?raw=true" alt="filter" width="600"/>
+<img src="https://github.com/21aansh06/JobFinder/blob/main/screenshots/Screenshot%202025-07-15%20135507.png?raw=true" alt="filtered" width="600"/>
 
 
 ## 🧩 Folder Structure
