@@ -50,6 +50,6 @@ JobFinder/
 ├── package.json
 ├── README.md
 ├── vite.config.js
-└── yarn.lock / package-lock.json
+└── package-lock.json
 
 ```
