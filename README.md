@@ -17,20 +17,39 @@ JobFinder is a modern, responsive job board web app built using **React.js**, **
 - **Logic & Data Handling:** React Hooks (`useState`)
 - **Deployment Ready:** Easily deploy on Vercel/Netlify
 
+## 📸 Preview
+
+### Homepage
+<img src="https://github.com/21aansh06/JobFinder/blob/main/public/screenshots/Screenshot%202025-07-15%20135447.png?raw=true" alt="JobFinder Preview 1" width="600"/>
+
+### Filtered Results
+<img src="https://github.com/21aansh06/JobFinder/blob/main/public/screenshots/Screenshot%202025-07-15%20135507.png?raw=true" alt="filtered" width="600"/>
+
+
 ## 🧩 Folder Structure
 
 ```
-src/
-├── components/
-│   ├── Filter.jsx
-│   ├── JobCard.jsx
-│   └── JobList.jsx
-├── data/
-│   └── jobs.js
-├── App.jsx
-├── main.jsx
-└── index.css
-```
-## 📸 Preview
+JobFinder/
+├── public/
+│   └── vite.svg
+├── screenshots/
+│   ├── Screenshot 2025-07-15 135447.png
+│   └── Screenshot 2025-07-15 135507.png
+├── src/
+│   ├── components/
+│   │   ├── Filter.jsx
+│   │   ├── JobCard.jsx
+│   │   └── JobList.jsx
+│   ├── data/
+│   │   └── jobs.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+├── vite.config.js
+└── package-lock.json
 
-![JobFinder Demo](https://via.placeholder.com/800x400?text=JobFinder+App+Screenshot)
+```
